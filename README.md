@@ -147,9 +147,20 @@ MIT License - feel free to use this project for learning and development.
 
 ## 👤 Author
 
-**Your Name**
+**Manju Selvakumaran**
 - GitHub: https://github.com/Manju-Selvakumaran
 - LinkedIn: https://www.linkedin.com/in/binf-manju-selvakumaran/
+  
+**Acknowledgments**:
+- UniProt — For providing the protein sequence database and REST API used to collect training data
+- scikit-learn — For machine learning tools and model evaluation utilities
+- XGBoost — For the gradient boosting implementation
+- Streamlit — For the easy-to-use web application framework
+- Claude AI (Anthropic) — For analysis assistance
+
+---
+
+**Last Updated**: February 2026
 
 ---
 
